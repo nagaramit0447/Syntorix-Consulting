@@ -37,20 +37,6 @@ Receive expert advice and strategic guidance to navigate the ever-evolving tech 
 - **🌐 Innovation:** Cutting-edge technology.
 - **🔄 End-to-End Solutions:** From concept to deployment.
 
-## 📞 <span style="font-family: 'Lucida Sans Unicode', sans-serif; color: #3498DB;">Get in Touch & Business Counseling</span>
-
-Ready to elevate your business? Contact us for general inquiries or personalized business counseling:
-
-- **General Inquiries:**
-  - 📧 **Email:** [contact@syntorix.com](mailto:contact@syntorix.com) 
-  - 📞 **Phone:** +1 (123) 456-7890 
-  - 🌐 **Website:** [syntorix.com](https://syntorix.com/) 
-
-- **Business Counseling:**
-  - 📧 **Email:** [counseling@syntorix.com](mailto:counseling@syntorix.com) 
-  - 📞 **Phone:** +1 (123) 456-7891 
-
-Let us help you strategize and achieve your business goals!
 
 ## 🌐 <span style="font-family: 'Verdana', sans-serif; color: #3498DB;">Follow Us</span>
 
