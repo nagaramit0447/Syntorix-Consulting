@@ -2,7 +2,7 @@
 
 Welcome to the **<span style="font-family: 'Verdana', sans-serif;">Syntorix</span>** GitHub repository! We're passionate about driving innovation and delivering top-notch technology solutions. Transform your ideas into reality with us!
 
-![Syntorix Banner](https://syntorix.com/path-to-your-banner-image.png) *(Replace with your actual banner image URL)*
+![Syntorix Banner](https://github.com/Syntorix-Consulting/Syntorix-Consulting/blob/main/githubBanner.png) 
 
 ## 🌟 <span style="font-family: 'Georgia', serif; color: #28B463;">About Us</span>
 
